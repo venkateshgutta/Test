@@ -1,7 +1,7 @@
 # Only code
 
 """
-Purpose
+Purpose -- vg
 
 Shows how to implement an AWS Lambda function that handles input from direct
 invocation.
